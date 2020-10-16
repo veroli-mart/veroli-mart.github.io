@@ -87,10 +87,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -106,6 +108,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -146,6 +149,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /*O.R.M*/
 .online-reputation-management {
     margin-bottom: 20px;
@@ -164,6 +168,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /*S.M.M*/
 .social-media-marketing {
     margin-bottom: 20px;
