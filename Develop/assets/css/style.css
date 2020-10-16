@@ -70,7 +70,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+ 
+/*Benefit Section Starts*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,6 +126,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*Benefit Section Ends*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
