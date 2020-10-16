@@ -128,6 +128,7 @@ p {
 }
 /*Benefit Section Ends*/
 
+/*S.E.O*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -145,6 +146,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*O.R.M*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,7 +164,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*S.M.M*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -181,13 +183,14 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/*Footer*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
